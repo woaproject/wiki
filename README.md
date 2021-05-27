@@ -1,8 +1,8 @@
-![POA Network Wiki](https://github.com/poanetwork/wiki/raw/master/assets/imgs/banner.png)
+![WOA Network Wiki](https://github.com/woaproject/wiki/raw/master/assets/imgs/banner.png)
 
-# POA Network Wiki
+# WOA Network Wiki
 
-POA Network is the first Ethereum-based public network with Proof of Authority consensus, reached by independent validators. We provide a public network for smart contracts that combines speed, security, and cost efficiency. POA Network's long-term vision is to create horizontal blockchain scalability through a swarm of Proof of Authority consensus blockchains connected by interledger protocols. 
+WOA Network is the first Vapory-based public network with Witness of Authority consensus, reached by independent validators. We provide a public network for smart contracts that combines speed, security, and cost efficiency. POA Network's long-term vision is to create horizontal blockchain scalability through a swarm of Proof of Authority consensus blockchains connected by interledger protocols. 
 
 * Getting Started
     * [Installation](https://github.com/poanetwork/wiki/wiki/POA-Installation)
